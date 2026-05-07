@@ -11,7 +11,7 @@
 
 <p align="center">
   <table align="center"><tr>
-    <td><a href="https://linkedin.com/in/dilshan-gunasekara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a></td>
+    <td><a href="www.linkedin.com/in/nilusha-gunasekara-73b64b397" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a></td>
     <td><a href="https://facebook.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" /></a></td>
     <td><a href="https://instagram.com/nilusha____" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a></td>
   </tr></table>
