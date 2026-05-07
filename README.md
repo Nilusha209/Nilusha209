@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilshan Gunasekara</h1>
+<h1 align="center">Hi 👋, I'm Nilusha Dilshan Gunasekara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nilusha209&label=Profile%20views&color=0e75b6&style=flat" alt="nilusha209" />
@@ -11,7 +11,7 @@
 
 <p align="center">
   <table align="center"><tr>
-    <td><a href="www.linkedin.com/in/nilusha-gunasekara-73b64b397" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/nilusha-gunasekara-73b64b397/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a></td>
     <td><a href="https://facebook.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" /></a></td>
     <td><a href="https://instagram.com/nilusha____" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a></td>
   </tr></table>
