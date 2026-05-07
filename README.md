@@ -20,7 +20,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <table align="center" style="border-collapse: collapse;" ><tr>
+  <table align="center" style="border-collapse: collapse; border: none;" ><tr>
     <td><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a></td>
