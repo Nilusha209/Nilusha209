@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Manjay Kumar
+# 💫 Hi 👋, I'm Nilusha Dilshan Gunasekara
 **A passionate Java Fullstack Developer || Backend Engineer || AWS Certified**
 
 Email Me 👉 ✉️ **manjaytechnical3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
